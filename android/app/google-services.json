@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "294833618298",
+    "project_id": "finease-e7b55",
+    "storage_bucket": "finease-e7b55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294833618298:android:a48c86c889e0a93011aac3",
+        "android_client_info": {
+          "package_name": "com.example.fin_ease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294833618298-0gn61ouol9t1ub6tssa8tvbklnu3b5t6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fin_ease",
+            "certificate_hash": "4e70fb552b299559dcb8267524f4aac766f3e31d"
+          }
+        },
+        {
+          "client_id": "294833618298-a6jnvknmekkgneo39belqob55hfvf5sr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk1sgGZgwQql2ArJFnmrcELHP4APLwoXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294833618298-a6jnvknmekkgneo39belqob55hfvf5sr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "294833618298-aaop4v3s2nurgj9bmj6gvaukia3hlc5v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.finEase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
